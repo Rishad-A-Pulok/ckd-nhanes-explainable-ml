@@ -1,0 +1,16 @@
+{
+  "experiment": "binary_predictive",
+  "selected_model": "logistic_regression",
+  "selection_metric": "roc_auc",
+  "train_n": 3634,
+  "test_n": 909,
+  "accuracy": 0.7755775577557755,
+  "balanced_accuracy": 0.7763211470784981,
+  "macro_f1": 0.7755642482982987,
+  "weighted_f1": 0.7756269928835465,
+  "positive_class": "1",
+  "precision": 0.7521551724137931,
+  "recall": 0.7968036529680366,
+  "roc_auc": 0.8490969374400139,
+  "average_precision": 0.8434320116011935
+}

@@ -1,0 +1,8 @@
+,No CKD,Stage 1 (Kidney Damage),Stage 2 (Mildly Decreased),Stage 3a (Mild-Moderate),Stage 3b (Moderate-Severe),Stage 4 (Severely Decreased),Stage 5 (Kidney Failure)
+No CKD,276,97,76,18,4,0,0
+Stage 1 (Kidney Damage),7,21,12,2,3,0,0
+Stage 2 (Mildly Decreased),58,41,139,56,21,4,0
+Stage 3a (Mild-Moderate),3,2,8,19,17,4,1
+Stage 3b (Moderate-Severe),0,1,0,4,8,2,0
+Stage 4 (Severely Decreased),0,0,0,0,4,0,0
+Stage 5 (Kidney Failure),0,0,0,0,1,0,0

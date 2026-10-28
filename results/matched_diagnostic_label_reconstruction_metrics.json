@@ -1,0 +1,16 @@
+{
+  "experiment": "matched_diagnostic_label_reconstruction",
+  "selected_model": "hist_gradient_boosting",
+  "selection_metric": "roc_auc",
+  "train_n": 3596,
+  "test_n": 899,
+  "accuracy": 0.9988876529477196,
+  "balanced_accuracy": 0.9989316239316239,
+  "macro_f1": 0.998885866365929,
+  "weighted_f1": 0.9988877025749916,
+  "positive_class": "1",
+  "precision": 0.9976851851851852,
+  "recall": 1.0,
+  "roc_auc": 0.9999950423384298,
+  "average_precision": 0.9999946291999656
+}

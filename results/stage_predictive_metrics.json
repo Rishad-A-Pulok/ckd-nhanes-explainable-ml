@@ -1,0 +1,11 @@
+{
+  "experiment": "stage_predictive",
+  "selected_model": "logistic_regression",
+  "selection_metric": "f1_macro",
+  "train_n": 3634,
+  "test_n": 909,
+  "accuracy": 0.5093509350935094,
+  "balanced_accuracy": 0.3390822557306194,
+  "macro_f1": 0.26422118766241015,
+  "weighted_f1": 0.5554612452725977
+}

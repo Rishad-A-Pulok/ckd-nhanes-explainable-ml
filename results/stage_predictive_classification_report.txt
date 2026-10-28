@@ -1,0 +1,13 @@
+                              precision    recall  f1-score   support
+
+                      No CKD       0.80      0.59      0.68       471
+     Stage 1 (Kidney Damage)       0.13      0.47      0.20        45
+  Stage 2 (Mildly Decreased)       0.59      0.44      0.50       319
+    Stage 3a (Mild-Moderate)       0.19      0.35      0.25        54
+  Stage 3b (Moderate-Severe)       0.14      0.53      0.22        15
+Stage 4 (Severely Decreased)       0.00      0.00      0.00         4
+    Stage 5 (Kidney Failure)       0.00      0.00      0.00         1
+
+                    accuracy                           0.51       909
+                   macro avg       0.26      0.34      0.26       909
+                weighted avg       0.64      0.51      0.56       909
