@@ -32,10 +32,6 @@ The diagnostic reconstruction model scores almost perfectly, which is exactly wh
 
 I still need to audit the NHANES source-code mappings and the label construction, check survey design implications, and add uncertainty estimates. I also want to revisit the original notebook's XGBoost/LightGBM and SHAP/LIME analyses after the core experiments are fully validated.
 
-## Repository notes
-
-- `src/` — a smaller reproducible training pipeline
-- `results/` — generated evaluation outputs
-- `tests/` — preprocessing checks
+## Note
 
 This repository is intended for research and teaching demonstrations, not patient diagnosis.
